@@ -20,3 +20,6 @@ Use otu_labels for the text values.
 5- Display each key-value pair from the metadata JSON object somewhere on the page.
 
 6- Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
+
+Interactive html
+http://127.0.0.1:5500/Module%2014%20Interactive%20Visulaizations/14%20Interactive%20Visualizations%20Challenge/14%20Interactive%20Viz%20Challenge/index.html
